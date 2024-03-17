@@ -1,0 +1,11 @@
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\bin\Debug\net8.0\ProjectEmployees.Core.deps.json
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\bin\Debug\net8.0\ProjectEmployees.Core.dll
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\bin\Debug\net8.0\ProjectEmployees.Core.pdb
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.AssemblyInfoInputs.cache
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.AssemblyInfo.cs
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.csproj.CoreCompileInputs.cache
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.dll
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\refint\ProjectEmployees.Core.dll
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ProjectEmployees.Core.pdb
+D:\work\Repos\SirmaSolutions\ProjectEmployees\ProjectEmployees.Core\obj\Debug\net8.0\ref\ProjectEmployees.Core.dll

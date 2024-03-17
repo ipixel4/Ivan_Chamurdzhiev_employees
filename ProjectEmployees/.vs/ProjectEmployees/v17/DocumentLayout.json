@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581241FF-24DC-4513-8A16-2716A98B792C}|ProjectEmployees.WebAPI\\ProjectEmployees.WebAPI.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.webapi\\controllers\\processcsvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581241FF-24DC-4513-8A16-2716A98B792C}|ProjectEmployees.WebAPI\\ProjectEmployees.WebAPI.csproj|solutionrelative:projectemployees.webapi\\controllers\\processcsvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581241FF-24DC-4513-8A16-2716A98B792C}|ProjectEmployees.WebAPI\\ProjectEmployees.WebAPI.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581241FF-24DC-4513-8A16-2716A98B792C}|ProjectEmployees.WebAPI\\ProjectEmployees.WebAPI.csproj|solutionrelative:projectemployees.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\interfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\interfaces\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531B7DF-4E2A-4611-8A2B-4AF93B071D66}|ProjectEmployeesConsole\\ProjectEmployeesConsole.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployeesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531B7DF-4E2A-4611-8A2B-4AF93B071D66}|ProjectEmployeesConsole\\ProjectEmployeesConsole.csproj|solutionrelative:projectemployeesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\objects\\employeepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\objects\\employeepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\objects\\projectdevdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\objects\\projectdevdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirmasolutions\\projectemployees\\projectemployees.core\\objects\\colabdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\objects\\colabdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessCSVController.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.WebAPI\\Controllers\\ProcessCSVController.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.WebAPI\\Controllers\\ProcessCSVController.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.WebAPI\\Controllers\\ProcessCSVController.cs",
+              "RelativeToolTip": "ProjectEmployees.WebAPI\\Controllers\\ProcessCSVController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:59:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.WebAPI\\Program.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.WebAPI\\Program.cs",
+              "RelativeToolTip": "ProjectEmployees.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:54:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Interfaces\\IManager.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Interfaces\\IManager.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Interfaces\\IManager.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Interfaces\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:16:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColabData.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\ColabData.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Objects\\ColabData.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\ColabData.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Objects\\ColabData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:48:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePair.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\EmployeePair.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Objects\\EmployeePair.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\EmployeePair.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Objects\\EmployeePair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:43:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployeesConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEmployeesConsole\\Program.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployeesConsole\\Program.cs",
+              "RelativeToolTip": "ProjectEmployeesConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:41:28.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectDevData.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\ProjectDevData.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Objects\\ProjectDevData.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Objects\\ProjectDevData.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Objects\\ProjectDevData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:12:05.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Helpers\\Constants.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Helpers\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:18:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Manager.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Manager.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Manager.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:48:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Helpers\\Extensions.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Helpers\\Extensions.cs",
+              "ToolTip": "D:\\work\\Repos\\SirmaSolutions\\ProjectEmployees\\ProjectEmployees.Core\\Helpers\\Extensions.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Helpers\\Extensions.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:44:12.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

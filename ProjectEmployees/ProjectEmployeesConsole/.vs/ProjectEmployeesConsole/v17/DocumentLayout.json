@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirma solutions\\projectemployees\\projectemployeesconsole\\projectemployees.core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirma solutions\\projectemployees\\projectemployeesconsole\\projectemployees.core\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|d:\\work\\repos\\sirma solutions\\projectemployees\\projectemployeesconsole\\projectemployees.core\\projectdevdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335382C6-6002-4AA0-81E6-2C95F6CB17E8}|ProjectEmployees.Core\\ProjectEmployees.Core.csproj|solutionrelative:projectemployees.core\\projectdevdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531B7DF-4E2A-4611-8A2B-4AF93B071D66}|ProjectEmployeesConsole\\ProjectEmployeesConsole.csproj|d:\\work\\repos\\sirma solutions\\projectemployees\\projectemployeesconsole\\projectemployeesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531B7DF-4E2A-4611-8A2B-4AF93B071D66}|ProjectEmployeesConsole\\ProjectEmployeesConsole.csproj|solutionrelative:projectemployeesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\Extensions.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Extensions.cs",
+              "ToolTip": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\Extensions.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:28:53.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDevData.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\ProjectDevData.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\ProjectDevData.cs",
+              "ToolTip": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\ProjectDevData.cs",
+              "RelativeToolTip": "ProjectEmployees.Core\\ProjectDevData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:24:13.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\Manager.cs",
+              "RelativeDocumentMoniker": "ProjectEmployees.Core\\Manager.cs",
+              "ToolTip": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployees.Core\\Manager.cs*",
+              "RelativeToolTip": "ProjectEmployees.Core\\Manager.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:29:58.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployeesConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEmployeesConsole\\Program.cs",
+              "ToolTip": "D:\\work\\Repos\\Sirma Solutions\\ProjectEmployees\\ProjectEmployeesConsole\\ProjectEmployeesConsole\\Program.cs*",
+              "RelativeToolTip": "ProjectEmployeesConsole\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:28:28.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
