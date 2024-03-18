@@ -29,4 +29,11 @@ Description:
 		Check if CSV is in the correct format, though some checks do demand data integrity
 		Some error handling can be better
 		Check for work time inconcistencies (employee dateto on a project is after different entry datefrom)
-		
+
+How to use:
+	Load swagger UI
+	Use upload endpoint to upload a csv file.
+	Use GetFiles endpoint to get list of uploaded files.
+	Use GetData endpoint to get list of employee pairs for projects and their shared time. 
+		Provided argument has to be an item from the previous step.
+		File extension included in provided argument.
